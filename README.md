@@ -36,7 +36,8 @@ And the app will work!
 * Run both server and client
 This is the standard way that doesn't require building the app:
 
-        cd client && npm run start && cd API && dotnet run
-     
+        cd client && npm run start
+ 
+        cd API && dotnet run
      
      
