@@ -12,9 +12,9 @@
 A website I made for learning purposes. I followed a course to finish this project. On the backend, it uses ASP.NET Core with Entity Framework and the code is written in Mediator pattern. On the frontend it uses React with Typescript. Users of this app can register/login (I used JWT authentication for it), add/attend activities, comment activities in real-time (SignalR) and follow other users. They can also add and crop their own photos.
 
 ## Screenshots
-<img src="https://ibb.co/zh8skqL"/>
-<img src="https://ibb.co/wJ765bc"/>
-<img src="https://ibb.co/5nBfSnW"/>
+<img src="https://i.postimg.cc/Y2QkTMJq/1.png"/>
+<img src="https://i.postimg.cc/tg1Gkj3b/3.png"/>
+<img src="https://i.postimg.cc/VLRwL4fx/2.png"/>
 
 ## Technologies
 * React with Typescript
