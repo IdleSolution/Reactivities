@@ -37,4 +37,5 @@ And the app will work!
 This is the standard way that doesn't require building the app:
 
      cd client && npm run start
+     
      cd API && dotnet run
