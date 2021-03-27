@@ -26,14 +26,15 @@ A website I made for learning purposes. I followed a course to finish this proje
 ## Setup
 
 After installing all necessary packages from frontend and backend, the website can be run in 2 ways:
-* Run server only
+* Run server only<br/>
 The backend is setup in a way that allows to only run server and then the server will serve all React components as static files. First, you will need to:<br/>
 
         cd client && npm run build
 This will create neccessary files in the API folder. Then you can just:<br/>
-     dotnet run
+
+        dotnet run
 And the app will work!
-* Run both server and client
+* Run both server and client<br />
 This is the standard way that doesn't require building the app:
 
         cd client && npm run start
