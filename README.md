@@ -32,7 +32,7 @@ The backend is setup in a way that allows to only run server and then the server
         cd client && npm run build
 This will create neccessary files in the API folder. Then you can just:<br/>
 
-        dotnet run
+        cd API && dotnet run
 And the app will work!
 * Run both server and client<br />
 This is the standard way that doesn't require building the app:
